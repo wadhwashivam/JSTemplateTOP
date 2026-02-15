@@ -1,4 +1,4 @@
-#Java Script Template TOP
+# Java Script Template TOP
 # 🚀 Webpack Starter Template
 
 A minimal, production-ready starting template for any frontend JavaScript project using **Webpack 5**.
